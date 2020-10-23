@@ -1,1 +1,8 @@
-# cracking
+# Cracking
+My cracking playground. 
+
+
+
+
+
+
